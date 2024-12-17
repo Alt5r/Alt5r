@@ -19,3 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alt5r&show_icons=true&theme=dark&locale=en" alt="alt5r" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alt5r&" alt="alt5r" /></p>
+
+<a href="https://www.abuseipdb.com/user/51298" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/51298.svg" alt="AbuseIPDB Contributor Badge" style="width: 381px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;">
+</a>
