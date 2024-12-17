@@ -18,10 +18,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alt5r&show_icons=true&theme=dark&locale=en" alt="alt5r" /></p>
 
-<div align="center">
+<div align="center" style="background-color: slategray; padding: 10px;">
     <a href="https://www.abuseipdb.com/user/51298" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-        <img src="https://www.abuseipdb.com/contributor/51298.svg" alt="AbuseIPDB Contributor Badge" width="381" style="border-radius: 5px; border: 5px solid #058403; padding: 5px; background: #35c246;">
+        <img src="https://www.abuseipdb.com/contributor/51298.svg" alt="AbuseIPDB Contributor Badge" width="381" style="background-color: white; border-radius: 5px; border: 5px solid #058403; padding: 5px;">
     </a>
 </div>
 
-<div align="center" style="background-color: slategray; height: 20px; width: 381px; margin: 0 auto;"></div>
