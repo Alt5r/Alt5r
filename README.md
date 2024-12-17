@@ -18,17 +18,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alt5r&show_icons=true&theme=dark&locale=en" alt="alt5r" /></p>
 
-<a href="https://www.abuseipdb.com/user/51298" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks" class="badge-container">
-    <img src="https://www.abuseipdb.com/contributor/51298.svg" alt="AbuseIPDB Contributor Badge" style="width: 381px; border-radius: 5px; border-top: 5px solid #058403; border-right: 5px solid #111; border-bottom: 5px solid #111; border-left: 5px solid #058403; padding: 5px; background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0));">
-</a>
+<div align="center">
+    <a href="https://www.abuseipdb.com/user/51298" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+        <img src="https://www.abuseipdb.com/contributor/51298.svg" alt="AbuseIPDB Contributor Badge" width="381" style="border-radius: 5px; border: 5px solid #058403; padding: 5px; background: #35c246;">
+    </a>
+</div>
 
-<style>
-.badge-container::after {
-    content: "";
-    display: block;
-    width: 100%;
-    height: 20px; /* Adjust the height of the background */
-    background-color: slategray; /* Slate-colored background */
-    margin-top: 5px; /* Spacing between the image and the background */
-}
-</style>
+<div align="center" style="background-color: slategray; height: 20px; width: 381px; margin: 0 auto;"></div>
