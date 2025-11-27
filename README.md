@@ -23,7 +23,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=rust,nextjs,react,python,js,html,css,tailwind,nodejs,flask,linux,bash,git,arduino,firebase,mysql,mongodb,matlab,nginx,tensorflow,mariadb&theme=dark" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=rust,nextjs,react,python,js,html,css,tailwind,nodejs,flask,linux,bash,git,arduino,firebase,mysql,mongodb,matlab,nginx,tensorflow,mariadb,c,arch,cassandra,clion,cloudflare,cmake,debian,discordjs,electron,express,fastapi,figma,firebase,git,haskell,heroku,laravel,latex,mysql,netlify,raspberrypi,react,redis,regex,replit,sqlite,threejs,ubuntu,vercel,vue&theme=dark" alt="My Skills" />
     </a>
 </p>
 </details>
