@@ -39,7 +39,7 @@
 
 <p align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alt5r&theme=tokyonight" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=Alt5r&theme=tokyonight" alt="Streak Stats" />
     </a>
 </p>
 
